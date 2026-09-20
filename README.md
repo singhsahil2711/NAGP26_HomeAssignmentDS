@@ -5,6 +5,9 @@
 Identify customers who may churn using a Decision Tree classifier.
 Provide an API returning a churn prediction and probability.
 
+## Repo URL
+https://github.com/singhsahil2711/NAGP26_HomeAssignmentDS
+
 ## Demo Video URL
 https://nagarro-my.sharepoint.com/:v:/p/sahil_singh02/IQBiBHFXkz7zS4pkgOHD2RWnAUWyfuIRv0eUHgkQmv9dCsc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=REjBVl
 
